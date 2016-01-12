@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>World of Plastic</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="../css/style.css">
+  </head>
+
+  <body>
+    <nav id="start">
+    <div class="nav-wrapper teal">
+      <a href="../index.html" class="brand-logo">World of Plastic</a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="why_so_bad.html">Why plastic is so bad</a></li>
+        <li><a href="how_you_can_help.html">How you can help</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="why_so_bad.html">Why plastic is so bad</a></li>
+        <li><a href="how_you_can_help.html">How you can help</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+
+
+<div class="container">
+
+    <div class="contact_us">
+    <h4>Contact Us!</h4>
+    <p>You can contact us by submitting the form bellow or sending an email to <a href="mailto:geo.worldofplastic@gmail.com"geo.worldofplastic@gmail.com></a></p>
+    </div>
+
+
+  <div id="contact">
+    <div class="row">
+    <form class="col s12" action="//formspree.io/geo.worldofplastic@gmail.com"
+      method="POST">
+      <div class="row">
+        <div class="input-field col s6">
+          <input id="first_name" type="text" class="validate">
+          <label for="first_name">First Name</label>
+        </div>
+        <div class="input-field col s6">
+          <input id="last_name" type="text" class="validate">
+          <label for="last_name">Last Name</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input id="email" type="email" class="validate" name="_replyto">
+          <label for="email">Email</label>
+        </div>
+      </div>
+      <div class="row">
+          <div class="input-field col s12">
+              <textarea id="textarea1" class="materialize-textarea"></textarea>
+              <label for="textarea1">Your Message</label>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col s12">
+              <input type="hidden" name="_next" value="pages/contact.html#send" />
+              <input type="hidden" name="_subject" value="New submission!" />
+              <input type="text" name="_gotcha" style="display:none" />
+              <button type="submit" name="button" class='btn' value="Send">Send Email</button>
+          </div>
+      </div>
+    </form>
+  </div>
+  </div>
+</div>
+
+
+<script src='../js/jquery-1.11.3.min.js'></script>
+<script src='../js/materialize.min.js'></script>
+<script src="../js/index.js"></script>
+
+
+
+
+  </body>
+</html>
