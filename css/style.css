@@ -12938,3 +12938,12 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* line 119, ../scss/style.scss */
+.text_white {
+  color: white;
+}
+/* line 121, ../scss/style.scss */
+.text_white a {
+  color: white;
+}
