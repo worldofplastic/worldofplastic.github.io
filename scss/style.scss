@@ -112,9 +112,10 @@
     width: 100%;
     height: 25vh;
     background-image: url(../img/header_bg_reduce.jpg);
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    margin-bottom: 12px;
 }
 .text_white{
     color: white;
