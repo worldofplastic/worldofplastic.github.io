@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/twanhuiskens/pen/JGJEBK.
+# worldofplastic.github.io
 
- 
+This is a school project to make people aware of the polution on the earth.
+For more details contacts us!
