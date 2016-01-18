@@ -12827,7 +12827,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   background-color: #57a458;
 }
 
-/* line 17, ../scss/style.scss */
+/* line 23, ../scss/style.scss */
 .qoute {
   text-transform: uppercase;
   color: white;
@@ -12835,7 +12835,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   text-align: center;
 }
 
-/* line 25, ../scss/style.scss */
+/* line 31, ../scss/style.scss */
 .img-footer {
   margin-top: 50px;
   width: 100%;
@@ -12844,22 +12844,22 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   background-color: #1ac755;
   background-attachment: fixed;
 }
-/* line 34, ../scss/style.scss */
+/* line 40, ../scss/style.scss */
 .img-footer li {
   color: white;
   padding-top: 10px;
 }
-/* line 37, ../scss/style.scss */
+/* line 43, ../scss/style.scss */
 .img-footer li a {
   color: inherit;
   text-decoration: underline;
 }
-/* line 40, ../scss/style.scss */
+/* line 46, ../scss/style.scss */
 .img-footer li a:hover {
   font-weight: bold;
 }
 
-/* line 47, ../scss/style.scss */
+/* line 53, ../scss/style.scss */
 .header {
   text-align: center;
   width: 100%;
@@ -12873,63 +12873,63 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   color: white;
   text-shadow: 0px 0px 20px black;
 }
-/* line 60, ../scss/style.scss */
+/* line 66, ../scss/style.scss */
 .header h1 {
   font-size: 50px;
   margin: 0px;
   padding-top: 33.33333vh;
 }
 
-/* line 77, ../scss/style.scss */
+/* line 83, ../scss/style.scss */
 .contact_us {
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
-/* line 81, ../scss/style.scss */
+/* line 87, ../scss/style.scss */
 #why_so_bad {
   margin-top: 100px;
 }
 
-/* line 84, ../scss/style.scss */
+/* line 90, ../scss/style.scss */
 .center-text {
   text-align: center;
 }
 
-/* line 88, ../scss/style.scss */
+/* line 94, ../scss/style.scss */
 #tim {
   margin-top: 40px;
 }
 
-/* line 92, ../scss/style.scss */
+/* line 98, ../scss/style.scss */
 .index-container {
   margin-top: 50px;
 }
 
-/* line 96, ../scss/style.scss */
+/* line 102, ../scss/style.scss */
 .index-content {
   margin-top: 50px;
 }
 
-/* line 99, ../scss/style.scss */
+/* line 105, ../scss/style.scss */
 .index-nav {
   margin-top: 20px;
   padding: 2px;
 }
 
-/* line 103, ../scss/style.scss */
+/* line 109, ../scss/style.scss */
 .nav-btn {
   width: 100%;
 }
 
-/* line 106, ../scss/style.scss */
+/* line 112, ../scss/style.scss */
 #img-foot1 {
   background-image: url(../img/header_bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-/* line 111, ../scss/style.scss */
+/* line 117, ../scss/style.scss */
 #help_header_img {
   width: 100%;
   height: 25vh;
@@ -12940,11 +12940,16 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   margin-bottom: 12px;
 }
 
-/* line 120, ../scss/style.scss */
+/* line 126, ../scss/style.scss */
 .text_white {
   color: white;
 }
-/* line 122, ../scss/style.scss */
+/* line 128, ../scss/style.scss */
 .text_white a {
   color: white;
+}
+
+/* line 132, ../scss/style.scss */
+#credits_container {
+  margin-top: 50px;
 }

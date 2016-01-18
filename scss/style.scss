@@ -12,6 +12,12 @@
     color: white;
     background-color: rgb(87, 164, 88);
 }
+
+// ::scrollbar:horizontal{
+//   background-color: #008080;
+//   width: 4px;
+//   height: 2px;
+// }
 // #right {margin-left: 100px; height: 100%; background-color: green}
 
 .qoute{
@@ -122,4 +128,7 @@
     a{
         color: white;
     }
+}
+#credits_container{
+  margin-top: 50px;
 }
